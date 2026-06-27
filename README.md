@@ -6,10 +6,6 @@ A comprehensive project for analyzing, tracking, and managing phishing threats a
 
 This repository contains tools and infrastructure for building a phishing detection and directory system. It includes both backend services and project documentation to help identify and catalog phishing attempts.
 
-## 🛠️ Technology Stack
-
-- **Python** (87.9%) - Core backend logic and data processing
-- **Docker** (12.1%) - Containerization and deployment
 
 ## 📁 Project Structure
 
